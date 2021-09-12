@@ -20078,7 +20078,7 @@ div.acymailing_module_success~form {
     right: 1px;
     top: 1px;
     height: 30px;
-    background: url(../../../../templates/vina_rikito/images/select_lang.png) no-repeat scroll 100% 50% #fff;
+    /* background: url(../img/assets/chevron.svg) no-repeat scroll 100% 50%; */
     width: 21px;
     pointer-events: none;
     z-index: 9

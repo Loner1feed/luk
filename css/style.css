@@ -487,3 +487,34 @@ ul.slick-dots li button::before{
 .sp-has-child{
     position: static !important;
 }
+
+.product-rating{
+    display: flex;
+    align-items: center;
+}
+
+.product-rating__item{
+    display: block;
+    max-width: 20px;
+}
+
+.product-rating__item img{
+    width: 100%;
+}
+
+#vinaTabContent.tab-content{
+    height: auto;
+}
+
+.range-input{
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.range-input .ui-slider-range{
+    background: #03A9F4;
+}
+
+.orderlistcontainer:hover .orderlist{
+    display: block;
+}
